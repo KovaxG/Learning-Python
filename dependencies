@@ -1,7 +1,3 @@
-[Reading]
-liac-arff [https://pypi.python.org/pypi/liac-arff]
-openpyxl [https://openpyxl.readthedocs.io/en/default/, https://automatetheboringstuff.com/chapter12/]
-
-
-[Drawing]
-matplotlib []
+liac-arff
+openpyxl
+sci-py
